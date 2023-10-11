@@ -7,4 +7,4 @@ else:
     print('Imported two')
 
 # one is imported
-# two rún directly
+# two run directly
