@@ -26,7 +26,7 @@ print(three_spade)
 print(three_spade.value)
 
 
-# Desk Class
+# deck Class
 class Deck:
 
     def __init__(self):
