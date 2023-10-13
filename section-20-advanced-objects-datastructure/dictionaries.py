@@ -24,6 +24,6 @@ for value in d.values():
 for key in d.keys():
     print(key)
 
-# Removed in python 3dict.iteritems(), dict.iterkeys(), and dict.itervalues().
+# Removed in python 3 dict.iteritems(), dict.iterkeys(), and dict.itervalues().
 
 # Instead: use dict.items(), dict.keys(), and dict.values() respectively.
